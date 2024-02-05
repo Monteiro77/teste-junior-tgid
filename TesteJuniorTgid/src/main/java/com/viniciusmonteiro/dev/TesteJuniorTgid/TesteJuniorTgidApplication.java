@@ -1,4 +1,4 @@
-package com.tgid.viniciusmonteiro.testejr.TesteJuniorTgid;
+package com.viniciusmonteiro.dev.TesteJuniorTgid;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
